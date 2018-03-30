@@ -1,2 +1,2 @@
 # Gatsby Site
-Example of an static React contact form using Netlify
+Example of a static React contact form using Netlify
